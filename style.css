@@ -24,3 +24,17 @@ h2 {
 label, button, input{
   display: block;
 }
+.big{
+  color: blue;
+  background-color: yellow;
+}
+.asteroid{
+  width: 200px;
+}
+.b326, #b325, .b329{
+  background-color: white;
+  font-weight: bold;
+}
+.b326, #b325{
+  border: solid 1px green;
+}
